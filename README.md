@@ -50,4 +50,4 @@ Each section includes interactive 3D animations to demonstrate the algorithms re
 - **CSS3**: Provides styling, enhanced with Bootstrap for a responsive design.
 - **JavaScript**: Powers the interactive features, including custom scripts for 3D cube rendering and animations.
 
-The 3D animations are driven by custom JavaScript code leveraging CSS3 transformations and quaternion mathematics for smooth and accurate cube rotations.
+The 3D animations are driven by custom JavaScript code leveraging CSS3 transformations and quaternion mathematics for smooth and accurate cube rotations, which is originally implemented by [Google](https://github.com/googlearchive/realtime-cube).
