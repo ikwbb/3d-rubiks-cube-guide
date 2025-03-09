@@ -1,11 +1,13 @@
+<div align="center">
+
 # 3D Animated Rubik's Cube Solving Guide
 
 [Live Demo](https://ikwbb.github.io/rubik-guide/index.html)
   
-![Demonstration of 3D Animated Rubik's Cube Algorithm Execution](demo.gif)
+<img src="demo.gif" alt="Demonstration of 3D Animated Rubik's Cube Algorithm Execution">
 
-
-
+</div>
+<br>
 
 This project is an interactive web-based guide designed to teach beginners how to solve a Rubik's Cube using the layer-by-layer method. It features 3D animations to visually demonstrate each step and algorithm, making the learning process engaging and easier to follow. The guide breaks down the solving process into manageable sections, each focusing on a specific layer of the cube.
 
