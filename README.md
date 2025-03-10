@@ -5,7 +5,7 @@
 <img src="demo.gif" alt="Demonstration of 3D Animated Rubik's Cube Algorithm Execution">
 
 
-[Live Demo](https://ikwbb.github.io/rubik-guide/index.html)
+[Try it out online](https://ikwbb.github.io/rubik-guide/index.html)
 
 </div>
 <br>
