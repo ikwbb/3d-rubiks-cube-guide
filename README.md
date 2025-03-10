@@ -2,9 +2,10 @@
 
 # 3D Animated Rubik's Cube Solving Guide
 
-[Live Demo](https://ikwbb.github.io/rubik-guide/index.html)
-  
 <img src="demo.gif" alt="Demonstration of 3D Animated Rubik's Cube Algorithm Execution">
+
+
+[Live Demo](https://ikwbb.github.io/rubik-guide/index.html)
 
 </div>
 <br>
