@@ -17,7 +17,7 @@ This project is an interactive web-based guide designed to teach beginners how t
 1. **Local Use**: 
    - Clone this repository to your local machine using:
      ```bash
-     git clone https://github.com/your-username/3d-animated-rubiks-cube.git
+     git clone https://github.com/ikwbb/3d-rubiks-cube-guide.git
      ```
    - Open the `index.html` file in a modern web browser (e.g., Chrome, Firefox, Safari).
 2. **Online Access**: 
